@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2598b712-21f7-47f7-84b7-0f95f331f2fe",
+  "export_job_id": "54e8cb3f-8cc0-4c4b-9bf8-b8c579362804",
   "id_short": 510109,
-  "published_at": "2026-04-12T07:50:36Z",
+  "published_at": "2026-04-18T19:16:19Z",
   "repo_name": "restaurant-verified-email-access-in-charlotte-north-carolina-us-sample-510109",
   "sample_asset_name": "beamstation_510109_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/510109/beamstation_510109_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "951c74b8ff84a2c40ef50675ed5bb157273aef9129397c11bf2845d0a8b032fa",
-  "sample_size_bytes": 57777,
-  "total_records": 671
+  "sample_records": 82,
+  "sample_sha256": "a0d1ad323a6993485bf5cdd4c9681e2f0acbea15ea9e6dcc5e9ef0572f355b1d",
+  "sample_size_bytes": 347947,
+  "total_records": 825
 }
