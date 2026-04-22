@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Charlotte, North Carolina, US
 
-> Free BeamStation sample export with 82 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `510109` |
 | Location | Charlotte |
 | Category | Restaurants |
-| Full dataset size | 825 records |
-| Free sample size | 82 records (9.94%) |
-| Last export | 2026-04-15T02:48:12.143282+00:00 |
+| Full dataset size | 364 records |
+| Free sample size | 36 records (9.89%) |
+| Last export | 2026-04-22T07:56:01.815833+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-charlotte-north-carolina-us-sample-510109/releases/download/sample-latest/beamstation_510109_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
